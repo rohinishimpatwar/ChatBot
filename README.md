@@ -27,3 +27,8 @@ Steps for AWS Pipeline
 
 ![](Screenshots_AWS_pipeline/img6.png)
 ![](Screenshots_AWS_pipeline/img5.png)
+
+Tensorboard ScreenShots
+
+![](Screenshots_AWS_pipeline/img8.png)
+![](Screenshots_AWS_pipeline/img9.png)
