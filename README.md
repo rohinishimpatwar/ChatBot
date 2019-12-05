@@ -8,6 +8,7 @@ Team Neurons
 
 - Saurabh Aggarwal
 
+Google colab link - https://colab.research.google.com/drive/1wcWdOaBQ1x5zx1gkUt6zl883zzaVpfFN#scrollTo=JtNhNukNI8pI
 
 Steps for AWS Pipeline
 
